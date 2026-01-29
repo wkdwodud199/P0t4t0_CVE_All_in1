@@ -24,13 +24,7 @@ Created by **P0t4t0**
 
 ## Installation
 
-### 1. Clone or Download
-
-```bash
-cd C:\Users\wkdwo\OneDrive\Desktop\develop\cve-scanner
-```
-
-### 2. Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -366,3 +360,4 @@ Future enhancements:
 - [ ] GUI version
 - [ ] Multi-threaded scanning
 - [ ] Docker support
+
