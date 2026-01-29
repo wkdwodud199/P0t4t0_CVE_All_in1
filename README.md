@@ -30,7 +30,7 @@ Created by **P0t4t0**
 pip install -r requirements.txt
 ```
 
-### 3. (Optional) Get NVD API Key
+### (Optional) Get NVD API Key
 
 For higher rate limits, get a free API key:
 - Visit: https://nvd.nist.gov/developers/request-an-api-key
@@ -360,4 +360,5 @@ Future enhancements:
 - [ ] GUI version
 - [ ] Multi-threaded scanning
 - [ ] Docker support
+
 
